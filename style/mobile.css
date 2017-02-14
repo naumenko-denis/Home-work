@@ -1,7 +1,5 @@
 @media only screen  
-  and (max-device-width: 414px) 
-  and (-webkit-min-device-pixel-ratio: 3)
-  and (orientation: landscape) { 
+  and (max-device-width: 414px) { 
 
 .title {
 	color: #7d7d7e;
