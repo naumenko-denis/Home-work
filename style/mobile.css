@@ -2,7 +2,7 @@
   and (max-device-width: 414px) 
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: landscape) { 
-  }
+
 .title {
 	color: #7d7d7e;
 	}
@@ -58,3 +58,4 @@ a:hover {
 	display: block;
 	width: 100%;
 }
+  }
