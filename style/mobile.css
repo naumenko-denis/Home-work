@@ -25,6 +25,9 @@
 .menu a:active {
 	color: white;
 	}
+.menu li {
+	display: block;
+}
 .active {
 	width: 40%;
 }
